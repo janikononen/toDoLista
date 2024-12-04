@@ -60,7 +60,7 @@ Projektin aikana opin seuraavat asiat:
 
 1. **projektin luominen**:
    - Tutustuminen Gradlen Kotlinin ominaisuuksiin
-   - tutustuminen riippuvuuksiin ja niiden määrittäminen Gradle.ktl -tiedostossa
+   - Tutustuminen riippuvuuksiin ja niiden määrittäminen Gradle.ktl -tiedostossa
 
 2. **Spring Boot -kehys**:
    - Kuinka rakentaa REST API käyttämällä `@RestController`, `@RequestMapping`, `@GetMapping`, `@PostMapping`, jne.
@@ -73,7 +73,7 @@ Projektin aikana opin seuraavat asiat:
 4. **SQLite-tietokanta**:
    - Kevyen tietokannan integrointi Spring Boot -sovellukseen.
    - Tietokantataulujen automaattinen luonti JPA-entiteettien avulla (`spring.jpa.hibernate.ddl-auto=update`).
-   - yhteyden luonti `application.properties`-tiedoston avulla.
+   - Yhteyden luonti `application.properties`-tiedoston avulla.
    - riippuvuudet
 
 5. **Postmanin käyttö**:
