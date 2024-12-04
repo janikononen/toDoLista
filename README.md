@@ -23,7 +23,7 @@ Tämä projekti on yksinkertainen **tehtävienhallintasovellus**, joka tarjoaa R
 - **Vastaus**: Lista tehtävistä (JSON).
 
 ### 2. Lisää uusi tehtävä
-**POST** `/perse`
+**POST** `/hevonperse`
 - **Pyynnön runko (JSON)**:
     ```json
     {
