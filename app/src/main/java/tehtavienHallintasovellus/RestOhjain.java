@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 //Määrittää luokan REST API:n käsittelijäksi.
 @RestController
 //Määrittää reitin kaikkien tehtävätoimintojen juureksi.
-@RequestMapping("/perse")
+@RequestMapping("/hevonperse")
 public class RestOhjain {   
     //injektoi Tehtavarepositorin käyttöön
     @Autowired
