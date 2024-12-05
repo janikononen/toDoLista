@@ -4,6 +4,7 @@ import java.time.LocalDate;
 
 import jakarta.persistence.*;
 
+//määrittää että luokalla on oltava vastaavan niminen taulu tietokannassa
 @Entity
 public class Tehtava {
     //Tässä tietokanta luo id-arvot automaattisesti

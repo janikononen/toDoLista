@@ -32,7 +32,7 @@ dependencies {
     // Spring Bootin perusriippuvuus web-sovelluksille
     implementation("org.springframework.boot:spring-boot-starter-web")
 
-    // Jos käytät tietokantaa, lisää Spring Data JPA
+    // Jos käytät tietokantaa, lisää Spring Data JPA helpottamaan elämää (ei tarvitse jokaista yhteyttä luoda manuaalisesti)
     implementation("org.springframework.boot:spring-boot-starter-data-jpa")
 
     // Testauskirjastot
@@ -41,7 +41,7 @@ dependencies {
     //tietokanta-ajuri
     implementation("org.xerial:sqlite-jdbc:3.47.1.0")
 
-    //hibernate-ajuri
+    //hibernate-ajuri, kääntäjä
     implementation("org.hibernate.orm:hibernate-community-dialects:6.6.3.Final")
 
 }
