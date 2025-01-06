@@ -50,7 +50,6 @@ Tämä projekti on yksinkertainen **tehtävienhallintasovellus**, joka tarjoaa R
 
 ### 4. Poista tehtävä
 **DELETE** `/hevonperse/{id}`
-- **Vastaus**: Ei sisältöä (HTTP 204).
 
 ---
 
@@ -82,7 +81,6 @@ Projektin aikana opin seuraavat asiat:
 
 6. **Virheiden selvitys**:
    - Lokien ja virheilmoitusten analysointi, esimerkiksi 404- ja 405-virheiden korjaaminen.
-   - Spring Boot Actuatorin hyödyntäminen reittien tarkasteluun.
 
 ---
 
